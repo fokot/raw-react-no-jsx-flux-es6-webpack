@@ -6,9 +6,9 @@
 * no webpack
 
 ##Parts
-* [learn-raw-react-no-jsx-flux-es6-webpack](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack) - [demo](https://raw.githubusercontent.com/fokot/raw-react-no-jsx-flux-es6-webpack/master/1/index.html)
-* [learn-raw-react-ridiculously-simple-forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms) - [demo](https://raw.githubusercontent.com/fokot/raw-react-no-jsx-flux-es6-webpack/master/2/index.html)
-* [routing-with-raw-react](http://jamesknelson.com/routing-with-raw-react) - [demo](https://raw.githubusercontent.com/fokot/raw-react-no-jsx-flux-es6-webpack/master/3/index.html)
+* [learn-raw-react-no-jsx-flux-es6-webpack](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack) - [demo](https://rawgit.com/fokot/raw-react-no-jsx-flux-es6-webpack/master/1/index.html)
+* [learn-raw-react-ridiculously-simple-forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms) - [demo](https://rawgit.com/fokot/raw-react-no-jsx-flux-es6-webpack/master/2/index.html)
+* [routing-with-raw-react](http://jamesknelson.com/routing-with-raw-react) - [demo](https://rawgit.com/fokot/raw-react-no-jsx-flux-es6-webpack/master/3/index.html)
 
 [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) - very good article about steps how to develop react application.
 It's also explains one-way data flow and inverse data flow (for changes)
