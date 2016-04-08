@@ -12,3 +12,6 @@
 
 [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) - very good article about steps how to develop react application.
 It's also explains one-way data flow and inverse data flow (for changes)
+
+
+<a mimetype="text/html" href="https://raw.githubusercontent.com/fokot/raw-react-no-jsx-flux-es6-webpack/master/3/index.html">download</a>
